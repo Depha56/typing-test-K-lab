@@ -1,1 +1,2 @@
 # typing-test-K-lab
+This online Typing Speed App designed to supercharge your typing skills and productivity! Whether you're a novice looking to hone your keyboard skills or an experienced typist aiming to break speed records, our Typing Speed App has got you covered.
